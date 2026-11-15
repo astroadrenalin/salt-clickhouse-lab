@@ -1,0 +1,1 @@
+# salt-clickhouse-lab
